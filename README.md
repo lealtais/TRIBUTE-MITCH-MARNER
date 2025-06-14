@@ -1,7 +1,7 @@
 # TRIBUTE-MITCH-MARNER
 # Tribute to Mitch Marner 
 
-![Mitch Marner Tribute](https://via.placeholder.com/600x200.png?text=Tribute+to+Mitch+Marner)
+![Mitch Marner Tribute](https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcT973IgOCIYSxsfBlWO2eSTTKSDIszMfSfRV4zq08T2QC-rIQYog-thXd_kNu9w3YpwF9JtQGtn-qzwjO4)
 
 ## Overview
 
